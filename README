@@ -10,6 +10,9 @@ Run all cucumber features in parallel.Each feature using an independent db for
    5. Collect all logs and analyze the logs
    6. Clear tmp dir
 
+== Requirement
+  cucumber --version >= 0.4.4
+
 == Install
   script/plugin install git://github.com/rainchen/cukes_slicer.git
 

@@ -1,6 +1,6 @@
 CucumberSlicer
 ==============
-Run all cucumber features in parallel.Each feature using an independent db for 
+Run all cucumber features in parallel(each feature using an independent db for testing).
 [![Cucumber Slicer](http://farm5.static.flickr.com/4058/4226659487_c203f6eff1_o_d.png)](http://github.com/rainchen/cukes_slicer "Cucumber Slicer")  
 
 == Steps
